@@ -329,6 +329,8 @@ function App() {
                 structures, computer systems, mathematics for computer science,
                 software development, web development, databases, software
                 engineering, and algorithms and complexity.
+
+                OOP I: 62%, OOP II:65%, Programming Lab(python): 63%, Internet Services: 64%
               </p>
             </article>
 
