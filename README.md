@@ -9,7 +9,7 @@ The portfolio showcases my education, experience, technical skills, and projects
 Add your deployed portfolio link here:
 
 ```text
-https://your-portfolio-url.vercel.app
+https://krina-portfolio.vercel.app
 ```
 
 ## About Me
